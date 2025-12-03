@@ -544,12 +544,12 @@
   "mp_intro_mcs_17_a5",
   "mp_intro_mcs_17_a8",
   "mp_intro_mcs_17_a9",
-  "mp_intro_mcs_8_a1",
-  "mp_intro_mcs_8_a1_cc",
-  "mpcas_int",
-  "mpcas1_ext",
-  "mpcas1_int",
-  "mpcas2_ext",
+  "mp_intro_mcs_8_a1", -- playerped and teammates are talking with gta5 story mode character with car 
+  "mp_intro_mcs_8_a1_cc", -- looped waste do not use this
+  "mpcas_int", -- diamond casino intro
+  "mpcas1_ext", -- diamond casino exit with teammates (4)
+  "mpcas1_int", -- diamond casino office intro with teammates (4)
+  "mpcas2_ext", -- diamond casino office exit with teammates (4)
   "mpcas2_int",
   "mpcas2_mcs1",
   "mpcas3_ext",
